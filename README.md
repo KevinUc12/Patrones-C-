@@ -1,2 +1,3 @@
-# Patrones-C-
+# Patrones-CSharp
+
 Patrones de Diseño en C#
